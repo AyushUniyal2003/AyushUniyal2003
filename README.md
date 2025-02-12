@@ -48,7 +48,7 @@ I am a passionate **MERN Stack Developer** and **Freelance Video Editor**, curre
 - Designed a responsive UI for a 50% boost in engagement.  
 
 ### [FORKIFY](https://forkify-j-s.netlify.app)  
-**GitHub**: [Repository Link](https://github.com/AyushUniyal2003/forkify)  
+**GitHub**: [Repository Link](https://github.com/AyushUniyal2003/Java_Script_Project_Forkify)  
 **Tech Stack**: HTML, CSS, JavaScript  
 - Recipe website with search, chatbot integration, and order management.  
 - Enhanced UX leading to a 35% increase in interactions.  
